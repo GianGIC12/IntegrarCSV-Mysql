@@ -1,0 +1,3 @@
+pwd ------------------- directorio de ubicacion
+ls -l  -------------------- listado de la carpeta
+git init  ------------- para inciar repositorio
