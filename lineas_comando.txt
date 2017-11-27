@@ -1,3 +1,9 @@
 pwd ------------------- directorio de ubicacion
 ls -l  -------------------- listado de la carpeta
 git init  ------------- para inciar repositorio
+git add .  ---------- subiendo archivos al repositorio staging
+git commit -m --- enviando los archivos con mensaje
+git remote add origin https://github.com/GianGIC12/IntegrarCSV-Mysql.git    --- subiendo en remoto a git
+git push -u origin master   subiendo a la rama master de git
+
+
