@@ -24,10 +24,10 @@ public class Conexion {
     
     public Conexion() {
         
-        gestor="35.185.84.183";
-        bd="db_apuestatotal_prod";
-        user="u_apuestatotal_des";
-        pass="AePhaesae5jaiv";
+        gestor="****";
+        bd="******";
+        user="****";
+        pass="*******";
     }
     
     
